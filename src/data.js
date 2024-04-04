@@ -1,0 +1,58 @@
+let shopItemData = [
+  {
+    id: 1,
+    name: "Rose flower",
+    price: 20,
+    desc: "Lorem ipsum dolor sit amet consectetur.",
+    img: "../images/pexels-photo-894751.webp",
+  },
+  {
+    id: 2,
+    name: "Rose flower",
+    price: 30,
+    desc: "Lorem ipsum dolor sit amet consectetur.",
+    img: "../images/pexels-photo-2831040.jpeg",
+  },
+  {
+    id: 3,
+    name: "Rose flower",
+    price: 40,
+    desc: "Lorem ipsum dolor sit amet consectetur.",
+    img: "../images/pexels-photo-14401.webp",
+  },
+  {
+    id: 4,
+    name: "Rose flower",
+    price: 90,
+    desc: "Lorem ipsum dolor sit amet consectetur.",
+    img: "../images/flowerful-flowery-flowerly-42257.webp",
+  },
+  {
+    id: 5,
+    name: "Rose flower",
+    price: 20,
+    desc: "Lorem ipsum dolor sit amet consectetur.",
+    img: "../images/pexels-photo-2395251.webp",
+  },
+  {
+    id: 6,
+    name: "Rose flower",
+    price: 30,
+    desc: "Lorem ipsum dolor sit amet consectetur.",
+    img: "../images/pexels-photo-13789664.webp",
+  },
+  {
+    id: 7,
+    name: "Rose flower",
+    price: 40,
+    desc: "Lorem ipsum dolor sit amet consectetur.",
+    img: "../images/pexels-photo-2395251.webp",
+  },
+  {
+    id: 8,
+    name: "Rose flower",
+    price: 90,
+    desc: "Lorem ipsum dolor sit amet consectetur.",
+    img: "../images/pexels-photo-236259.jpeg",
+  },
+];
